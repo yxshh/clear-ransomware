@@ -27,7 +27,7 @@ The code then uses the Fernet module of the cryptography library to decrypt the 
 
 **Future Perspectives**
 
-*This decrypter would be decrypting many other ransomewares too which would help a lot of companies or organizations 
+*This decrypter would be decrypting many other ransomwares too which would help a lot of companies or organizations 
 to be safe from such type of malwares*
 
 **This Project for Hackthefall event is done by**:-
